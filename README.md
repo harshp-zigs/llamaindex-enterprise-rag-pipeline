@@ -81,13 +81,3 @@ Traces can contain sensitive data. Redact fields before export, restrict access,
 ## Get Started
 
 Ready to run LlamaIndex agents you can explain? Visit [zignuts.com](https://zignuts.com/) to speak with the team.
-
-## Publish with GitHub Pages
-
-1. Add `llamaindex-agentic-production.jpg` to the repository root.
-2. Go to **Settings > Pages**, choose the `main` branch and the `/ (root)` folder, then save.
-3. The site will be available at `https://harshp-zigs.github.io/llamaindex-enterprise-rag-pipeline/`.
-
-## Topics
-
-`llamaindex` `ai-agents` `llm-tracing` `observability` `rag-pipeline` `agent-workflows` `production-ai`
